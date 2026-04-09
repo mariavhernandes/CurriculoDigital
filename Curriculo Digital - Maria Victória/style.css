@@ -1,0 +1,187 @@
+@font-face{
+font-family: 'BlackMango';
+src: url('fonte/BlackMango-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Raleway', sans-serif;
+}
+
+body{
+background:#1D1D1D !important;
+color:white;
+}
+
+/* elementos do navbar: */
+.menu-space{
+gap:50px;
+margin-right: 40px;
+}
+
+.logo-space{
+margin-left: 40px;
+}
+
+.navbar-dark .nav-link{
+font-family: 'Raleway', sans-serif;
+font-weight: 400;
+color: white;
+font-size: 18px;
+}
+
+.separator{
+color:#ffffff;
+display:flex;
+font-size: 25px;
+font-weight: 10;
+align-items:center;
+cursor: default;
+}
+
+.home{
+display:flex;
+align-items:center;
+justify-content:space-between;
+padding: 40px 80px;
+}
+
+.text{
+max-width:500px;
+margin-left: 40px;
+}
+
+h1{
+font-family:'BlackMango';
+font-size: 60px !important;
+margin-bottom: 20px;
+color:#ffffff !important;
+}
+
+.text p{
+font-size: 30px;
+color:#ffffff;
+line-height:1.6;
+}
+
+/* botões: */
+
+.botoes{
+margin-top:40px;
+display:flex;
+gap:20px;
+align-items:center;
+}
+
+.botao{
+width:160px;
+height:45px;
+display:flex;
+align-items:center;
+justify-content:center;
+gap:8px;
+border-radius:25px;
+text-decoration:none;
+color:white;
+margin-right:20px;
+transition:0.6s;
+border:2px solid transparent;
+}
+
+/* linkedin */
+.linkedin{
+background:
+linear-gradient(90deg, #1D1D1D,#1D1D1D) padding-box,
+linear-gradient(90deg, #F5006E,#AE45EB) border-box;
+}
+
+.linkedin:hover{
+background:linear-gradient(90deg, #F5006E,#AE45EB) border-box;
+}
+
+/* github */
+.github{
+background:
+linear-gradient(90deg, #1D1D1D,#1D1D1D) padding-box,
+linear-gradient(90deg, #A30AF5,#2528f1) border-box;
+}
+
+.github:hover{
+background:linear-gradient(90deg, #A30AF5,#2528f1) border-box;
+}
+
+.info{
+margin-top:40px;
+display:flex;
+gap:25px;
+align-items:center;
+flex-wrap:wrap;
+}
+
+.curriculo{
+padding:10px 20px;
+border:2px solid;
+border-radius:25px;
+text-decoration:none;
+color:white;
+}
+
+.imagem img{
+width:350px;
+margin-right: 150px;
+}
+
+/* elementos do footer: */
+.footer{
+margin-top:20px;
+padding:20px 80px;
+}
+
+.footer-info{
+display:flex;
+align-items:center;
+gap:20px;
+font-family:'Raleway', sans-serif;
+font-size:14px;
+color:#ffffff;
+}
+
+.footer-divider{
+color:#ffffff;
+display:flex;
+font-size: 25px;
+font-weight: 10;
+align-items:center;
+cursor: default;}
+
+.footer-btn{
+border:2px solid transparent;
+
+background:
+linear-gradient(90deg, #1D1D1D, #1D1D1D) padding-box,
+linear-gradient(90deg, #F5006E,  #AE45EB) border-box;
+
+padding:6px 18px;
+border-radius:20px;
+text-decoration:none;
+color:white;
+margin-left:10px;
+transition:0.6s;
+}
+
+.footer-btn:hover{
+background: linear-gradient(90deg, #F5006E, #AE45EB) border-box;
+}
+
+.email-link{
+text-decoration:none;
+color:#ffffff;
+}
+
+.email-link:hover{
+color:#cfcfcf;
+}

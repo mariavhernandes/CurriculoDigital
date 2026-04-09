@@ -1,0 +1,51 @@
+.secao-projetos{
+padding:40px 80px;
+}
+
+/* titulo */
+
+.titulo-projetos{
+font-family:'BlackMango';
+font-size:70px;
+margin-bottom:40px;
+}
+
+/* subtitulo */
+
+.categoria{
+font-size:32px;
+font-weight:500;
+margin-top:40px;
+margin-bottom:30px;
+color: rgb(255, 255, 255);
+}
+
+/* grid */
+
+.grid-projetos{
+display:grid;
+grid-template-columns:repeat(3, 1fr);
+gap:40px;
+margin-bottom:50px;
+}
+
+/* card projeto */
+
+.projeto{
+text-align:center;
+}
+
+.projeto img{
+width:100%;
+border-radius:14px;
+transition:0.3s;
+}
+
+/* nome projeto */
+
+.projeto p{
+margin-top:15px;
+font-size:22px;
+font-weight:300;
+color: #ffff;
+}

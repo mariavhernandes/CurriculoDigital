@@ -1,0 +1,56 @@
+.secao-fotos{
+padding: 40px 80px;
+}
+
+.titulo-fotos{
+font-family:'BlackMango';
+font-size:70px;
+}
+
+.subtitulo{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: #ffffff;
+    font-weight: 100;
+    text-align: center;
+}
+
+.galeria{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 25px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* fotos gerais */
+
+.foto{
+width:100%;
+border-radius:20px;
+object-fit:cover;
+transition:0.3s;
+}
+
+.foto:hover{
+transform:scale(1.05);
+
+border:2px solid #AE45EB;
+
+box-shadow:0 0 25px #AE45EB;
+}
+
+/* 4 fotos grandes */
+
+.grande{
+    grid-column: span 3;
+    height: 535px;
+}
+
+/* fotos pequenas */
+
+.pequena{
+    grid-column: span 2;
+    height: 350px;
+}

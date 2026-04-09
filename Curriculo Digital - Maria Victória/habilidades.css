@@ -1,0 +1,93 @@
+.secao-habilidades{
+padding:40px 80px;
+}
+
+.titulo-habilidades{
+font-family:'BlackMango';
+font-size:70px;
+margin-bottom:40px;
+}
+
+.cards{
+display:flex;
+gap:30px;
+margin-top:40px;
+width:100%;
+font-size: 20px;
+}
+
+/* CARD */
+
+.card-habilidade{
+background:#333333;
+padding:35px;
+border-radius:16px;
+flex:1;
+border:2px solid transparent;
+transition:0.4s;
+cursor:pointer;
+}
+
+/* ÍCONE */
+
+.icone img{
+
+width:55px;
+margin-bottom:20px;
+
+transition:0.4s;
+
+}
+
+/* TITULO */
+
+.card-habilidade h3{
+font-family:'BlackMango';
+color:white;
+font-size:35px;
+margin-bottom:15px;
+font-weight: 100;
+
+}
+
+/* LISTA */
+
+.card-habilidade ul{
+
+list-style:none;
+padding:0;
+
+}
+
+.card-habilidade li{
+
+color:#d4d4d4;
+margin-bottom:8px;
+
+}
+
+/* HOVER */
+
+.card-habilidade:hover{
+
+transform:scale(1.05);
+
+background:rgba(174,69,235,0.25);
+
+border:2px solid #AE45EB;
+
+box-shadow:0 0 25px #AE45EB;
+
+}
+
+/* ÍCONE GIRANDO */
+
+.card-habilidade:hover .icone img{
+
+transform:rotate(-10deg) scale(1.1);
+
+}
+
+.competencias{
+max-width:500px;
+}
