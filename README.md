@@ -1,8 +1,5 @@
 | [Português 🇧🇷](README.md) | [English 🇺🇸](README-en.md) |
 |---|---|
-<p align="center">
-<img width="300" height="auto" align="center" src="https://github.com/mariavhernandes/assets/ab00302f-c4e0-48cf-b384-a6d72930b68b" />
-</p>
 
 # Currículo Digital
 
