@@ -1,6 +1,10 @@
 | [Português 🇧🇷](README.md) | [English 🇺🇸](README-en.md) |
 |---|---|
 
+<p align="center">
+<img width="300" height="auto" align="center" src="https://github.com/user-attachments/assets/f0d57a81-0d16-4c0f-8ac6-3db9465df8c4" />
+</p>
+
 # Currículo Digital
 
 ## 📌 Sobre o Projeto
@@ -19,7 +23,7 @@ Este projeto é um Currículo Digital desenvolvido para apresentar meu perfil pr
 
 ## 📸 Capturas de Tela
 <p align="center">
-  <img width="250" height="auto" src="https://github.com/user-attachments/assets/e3036cbc-50e0-452d-8927-b401585e1c63" />
-  <img width="250" height="auto" src="https://github.com/user-attachments/assets/300b6fe4-ecde-4dee-80ba-e70e2a7d1835" />
-  <img width="250" height="auto" src="https://github.com/user-attachments/assets/f1162952-04a1-4b96-a0b2-1eb03d2f412d" />
+  <img width="270" height="auto" src="https://github.com/user-attachments/assets/e3036cbc-50e0-452d-8927-b401585e1c63" />
+  <img width="270" height="auto" src="https://github.com/user-attachments/assets/300b6fe4-ecde-4dee-80ba-e70e2a7d1835" />
+  <img width="270" height="auto" src="https://github.com/user-attachments/assets/f1162952-04a1-4b96-a0b2-1eb03d2f412d" />
 </p>
