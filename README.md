@@ -15,7 +15,7 @@ Este projeto é um Currículo Digital desenvolvido para apresentar meu perfil pr
 ## 🛠️ Tecnologias Utilizadas 
 - HTML5
 - CSS3
-- JavaScript
+- PHP
 
 ## 📸 Capturas de Tela
 <p align="center">
