@@ -1,10 +1,6 @@
 | [Português 🇧🇷](README.md) | [English 🇺🇸](README-en.md) |
 |---|---|
 
-<p align="center">
-<img width="100" height="auto" align="center" src="https://github.com/user-attachments/assets/f0d57a81-0d16-4c0f-8ac6-3db9465df8c4" />
-</p>
-
 # Currículo Digital
 
 ## 📌 Sobre o Projeto
